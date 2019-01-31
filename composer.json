@@ -16,9 +16,13 @@
       "name": "unit2magento",
       "email": "test@test.com"
     }
-  ],
-  "dist": {
-        "url": "https://github.com/mageprince/magento2-extrafee.git",
-        "type": "git"
-  }
+  ],"require": {
+    "mageprince/magento2-extrafee":"dev-master"
+},
+"repositories": [
+    {
+        "type": "git",
+        "url": "https://github.com/mageprince/magento2-extrafee.git"
+    }
+]
 }
