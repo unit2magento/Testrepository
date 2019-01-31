@@ -19,10 +19,8 @@
   ],
   "repositories": [
     {
-      "mageprince": {
         "type": "git",
         "url": "https://github.com/mageprince/magento2-extrafee.git"
-      }
     }
   ]
 }
