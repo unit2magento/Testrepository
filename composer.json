@@ -13,6 +13,7 @@
     }
   ],
   "require": {
-    "razorpay/magento": "^2.6"
+    "razorpay/magento": "^2.6",
+    "mageprince/magento2-productattachment": "^1.1"
   }
 }
