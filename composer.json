@@ -11,13 +11,8 @@
       "name": "unit2magento",
       "email": "test@test.com"
     }
-  ],"require": {
-    "mageprince/magento2-extrafee":"dev-master"
-},
-"repositories": [
-    {
-        "type": "git",
-        "url": "https://github.com/mageprince/magento2-extrafee.git"
-    }
-]
+  ],
+  "require": {
+    "razorpay/magento": "^2.6"
+  }
 }
